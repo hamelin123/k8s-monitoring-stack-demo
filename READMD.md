@@ -78,7 +78,7 @@ k8s-monitoring-stack-demo/
 
 2. **Start the monitoring stack:**
    ```bash
-   docker-compose up -d
+   docker compose up -d
    ```
 
 3. **Access the services:**
